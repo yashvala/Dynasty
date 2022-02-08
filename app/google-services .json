@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417215085597",
+    "firebase_url": "https://dynasty-11205.firebaseio.com",
+    "project_id": "dynasty-11205",
+    "storage_bucket": "dynasty-11205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417215085597:android:8ac510ea2fd7d05cdcdaf4",
+        "android_client_info": {
+          "package_name": "com.example.dynasty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417215085597-84eerqt0iffjv7i3cu41i59nbebtnhv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBR1Xu1e348yw3MxFO_6H9Hk9untXM0Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417215085597-84eerqt0iffjv7i3cu41i59nbebtnhv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

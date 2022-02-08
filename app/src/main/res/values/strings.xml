@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dynasty</string>
+    <string name="dynasy">DYNASTY</string>
+    <string name="businesses">Businesses</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_20">20</string>
+    <string name="sport_equipment">SPORT EQUIPMENT</string>
+    <string name="search_for_categories">Search for Categories</string>
+    <string name="search_for_business">Search for Businesses</string>
+    <string name="category">category</string>
+    <string name="phonemix">Phonemix</string>
+    <string name="ahmedabad">Ahmedabad</string>
+    <string name="loping_software">loping software</string>
+    <string name="sqaure_will_2_iscon_cross_road">Sqaure will 2, Iscon cross road</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
+    <string name="services">services</string>
+    <string name="tags">TAGS</string>
+    <string name="try_again">Try Again</string>
+    <string name="cancel">Cancel</string>
+</resources>
